@@ -4,6 +4,7 @@ function testFunc() {
   return "hi"
 }
 
+<<<<<<< HEAD
 let record 
 
 function superbowlWin(record) {
@@ -12,3 +13,6 @@ function superbowlWin(record) {
   })
   return results === undefined ? undefined : results.year
 }
+=======
+function superbowlWin(array)
+>>>>>>> 1a0fdd1cfbb15125b26076844c3b4d0b61120a11
